@@ -1,2 +1,2 @@
 # Toeic Course
-# Guide line
+# Guideline
